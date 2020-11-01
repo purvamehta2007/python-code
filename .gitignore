@@ -1,1 +1,24 @@
 /python.py
+#string functions
+name='Purva'
+print(name.capitalize())
+print(name.upper())
+print(name.isalpha())
+print(name.isalnum())
+print(name.replace('purva','python'))
+print(name.lower())
+print(name.split('u'))
+print(name.split('r'))
+print(name.istitle())
+print(name.isspace())
+
+
+
+
+a=23
+b=78
+print(a is b)##answer should be False
+print(a is not b)##answer should be True as a!=b
+print('hi,'+ name +',how are you??') ##here'+'is used for concatnation
+ 
+
