@@ -1,4 +1,6 @@
-##BIODATA
+##BIODATA using format method
+
+
 name = input('please enter your name : ')
 father_name = input("please enter your father's name : ")
 mother_name = input("please enter your mother's name : ")
