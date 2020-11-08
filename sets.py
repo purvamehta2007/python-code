@@ -36,7 +36,7 @@ remove
 The remove() function, on the other hand, is used to remove the value 
 where we do not need the removed value to be returned. This function 
 takes the element value itself as the parameter. If you give the index value in the
- parameter slot, it will throw an error.
+parameter slot, it will throw an error.
 
 3. why pop method is not good for set?
 ans)This in-built function of Python helps to pop out elements from a set just like
