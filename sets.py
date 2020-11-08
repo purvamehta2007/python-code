@@ -39,7 +39,7 @@ takes the element value itself as the parameter. If you give the index value in 
  parameter slot, it will throw an error.
 
 3. why pop method is not good for set?
-This in-built function of Python helps to pop out elements from a set just like
+ans)This in-built function of Python helps to pop out elements from a set just like
 the principal used in the concept while implementing Stack. This method 
 removes a random element from the set and returns the removed element. 
 Unlike, a stack a random element is popped off the set. This is one of the
